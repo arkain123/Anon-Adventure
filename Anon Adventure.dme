@@ -1,0 +1,25 @@
+// DM Environment file for Anon Adventure.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "Icons"
+#define FILE_DIR "Icons/Mares"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "Code\area.dm"
+#include "Code\mob.dm"
+#include "Code\obj.dm"
+#include "Code\turf.dm"
+#include "Code\world.dm"
+#include "Map\Starthouse.dmm"
+// END_INCLUDE
+

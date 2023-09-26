@@ -1,0 +1,20 @@
+"a" = (/turf/Wall/Bricks,/area/start_town/start_house)
+"b" = (/turf/Door/Door_purple,/area/start_town/start_house)
+"c" = (/turf/Window/Bricks_window,/area/start_town/start_house)
+"d" = (/turf/Floor/Wood_Floor,/area/start_town/start_house)
+"e" = (/obj/Flowers/Daisy,/turf/Floor/Wood_Floor,/area/start_town/start_house)
+"f" = (/obj/Equipment/Vending_machine,/turf/Floor/Wood_Floor,/area/start_town/start_house)
+"g" = (/mob/npc/Roseluck,/turf/Floor/Wood_Floor,/area/start_town/start_house)
+
+(1,1,1) = {"
+aaabaacaaa
+addddgddfa
+adddddddda
+cddddddddc
+adddddddda
+addddddeda
+cddddddddc
+adddddddda
+adddddddda
+aaacaacaaa
+"}
